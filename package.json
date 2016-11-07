@@ -24,7 +24,8 @@
     "index.js",
     "solcjs",
     "soljson.js",
-    "wrapper.js"
+    "wrapper.js",
+    "browser-wrapper.js"
   ],
   "author": "chriseth",
   "license": "MIT",
